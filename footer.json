@@ -4,6 +4,6 @@
 {"name":"item6","url":"url"},{"name":"item7","url":"url"},{"name":"item8","url":"url"},{"name":"item9","url":"url"}]},
 {"name":"Category4","listOfItems":[{"name":"item1","url":"url"},{"name":"item2","url":"url"},{"name":"item3","url":"url"},
 {"name":"item4","url":"url"},{"name":"item5","url":"url"}]},
-{"name":"Category5","listOfItems":[{"urlOfImage":"SocialUrl1","urlOnImage":"url"},{"urlOfImage":"SocialUrl2","urlOnImage":"url"},
-{"urlOfImage":"SocialUrl3","urlOnImage":"url"},{"urlOfImage":"SocialUrl4","urlOnImage":"url"},
-{"urlOfImage":"SocialUrl5","urlOnImage":"url"},{"urlOfImage":"SocialUrl6","urlOnImage":"url"}]}]}
+{"name":"Category5","listOfItems":[{"name":"SocialUrl1","url":"url"},{"name":"SocialUrl2","url":"url"},
+{"name":"SocialUrl3","url":"url"},{"name":"SocialUrl4","url":"url"},
+{"name":"SocialUrl5","url":"url"},{"name":"SocialUrl6","url":"url"}]}]}
