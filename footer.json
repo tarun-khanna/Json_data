@@ -1,9 +1,9 @@
-{"category":[{"name":"Category1","listOfItems":[{"name":"urlOfImage","url":"urlOnImage"}]},{"name":"Category2","listOfItems":[{"name":"item1","url":"url"},
-{"name":"item2","url":"url"},{"name":"item3","url":"url"}]},{"name":"Category3","listOfItems":[{"name":"item1","url":"url"},
+{"category":[{"name":"Category1","status":"y","listOfItems":[{"name":"urlOfImage","url":"urlOnImage"}]},{"name":"Category2","status":"y","listOfItems":[{"name":"item1","url":"url"},
+{"name":"item2","url":"url"},{"name":"item3","url":"url"}]},{"name":"Category3","status":"y","listOfItems":[{"name":"item1","url":"url"},
 {"name":"item2","url":"url"},{"name":"item3","url":"url"},{"name":"item4","url":"url"},{"name":"item5","url":"url"},
 {"name":"item6","url":"url"},{"name":"item7","url":"url"},{"name":"item8","url":"url"},{"name":"item9","url":"url"}]},
-{"name":"Category4","listOfItems":[{"name":"item1","url":"url"},{"name":"item2","url":"url"},{"name":"item3","url":"url"},
+{"name":"Category4","status":"y","listOfItems":[{"name":"item1","url":"url"},{"name":"item2","url":"url"},{"name":"item3","url":"url"},
 {"name":"item4","url":"url"},{"name":"item5","url":"url"}]},
-{"name":"Category5","listOfItems":[{"name":"SocialUrl1","url":"url"},{"name":"SocialUrl2","url":"url"},
+{"name":"Category5","status":"y","listOfItems":[{"name":"SocialUrl1","url":"url"},{"name":"SocialUrl2","url":"url"},
 {"name":"SocialUrl3","url":"url"},{"name":"SocialUrl4","url":"url"},
 {"name":"SocialUrl5","url":"url"},{"name":"SocialUrl6","url":"url"}]}]}
