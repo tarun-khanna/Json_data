@@ -1,6 +1,6 @@
-{"name":"Get Social","listOfItems":[{"urlOfImage":"FBurl","status":"y","url":"url"},
-{"urlOfImage":"TwitterUrl","status":"y","url":"url"},
-{"urlOfImage":"InstaUrl","status":"y","url":"url"},
-{"urlOfImage":"Pinterest","status":"y","url":"url"},
-{"urlOfImage":"YoutubeUrl","status":"y","url":"url"},
-{"urlOfImage":"GoogleUrl","status":"y","url":"url"}]}
+{"name":"Get Social","listOfItems":[{"urlOfImage":"http://music.uga.edu/sites/all/themes/hhsom/img/New_FB-logo-for-HHSOM.png","status":"y","url":"url"},
+{"urlOfImage":"https://png.icons8.com/twitter/color/50","status":"y","url":"url"},
+{"urlOfImage":"http://www.androidapksfree.com/wp-content/uploads/2015/03/Instagram-APK-50x50.png","status":"y","url":"url"},
+{"urlOfImage":"https://blog.pinterest.com/sites/blog/files/styles/50x50/public/Pinterest_Badge_Red.png?itok=oCio9-Hh","status":"y","url":"url"},
+{"urlOfImage":"https://s.pinimg.com/images/api/attrib/youtube.png","status":"y","url":"url"},
+{"urlOfImage":"https://www.tums.com/content/dam/NA_Pharma/Country/US/Brands/Tums/Digital/Web/Images/TUMS%20Refresh/TR_google.png","status":"y","url":"url"}]}
