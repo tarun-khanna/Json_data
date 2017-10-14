@@ -1,6 +1,6 @@
-{"name":"Get Social","listOfItems":[{"status":"y","twitterUrl":"https://twitter.com/puma"},
-{"status":"y","fbUrl":"https://www.facebook.com/PUMAl"},
-{"status":"y","pinterestUrl":"http://www.pinterest.com/puma/"},
-{"status":"y","youtubeUrl":"https://www.youtube.com/user/puma"},
-{"status":"y","instaUrl":"https://instagram.com/puma#"},
-{"status":"y","googleUrl":"https://plus.google.com/+puma"}]}
+{"name":"Get Social","twitterUrl":"https://twitter.com/puma",
+"fbUrl":"https://www.facebook.com/PUMAl",
+"pinterestUrl":"http://www.pinterest.com/puma/",
+"youtubeUrl":"https://www.youtube.com/user/puma",
+"instaUrl":"https://instagram.com/puma#",
+"googleUrl":"https://plus.google.com/+puma"}
