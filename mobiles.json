@@ -1,2 +1,2 @@
-[{"name":"nokia","model":"2690","price":3000},{"name":"samsung","model":"galaxy","price":5000},
-{"name":"xioami","model":"note4","price":12000}]
+{"mobiles":[{"name":"nokia","model":"2690","price":3000},{"name":"samsung","model":"galaxy","price":5000},
+{"name":"xioami","model":"note4","price":12000}]}
