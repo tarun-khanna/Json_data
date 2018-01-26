@@ -1,26 +1,68 @@
-[
-  {
-    "id": 1,
-    "question": "who is my best friend?",
-    "options": ["karan", "prafful", "tarun"],
-    "isMarked": false
-  },
-  {
-    "id": 2,
-    "question": "Novel or Movie?",
-    "options": ["Novel", "Movie"],
-    "isMarked": false
-  },
-  {
-    "id": 3,
-    "question": "Do you like me?",
-    "options": ["yes", "no"],
-    "isMarked": false
-  },
-  {
-    "id": 4,
-    "question": "Do you hate me?",
-    "options": ["yes", "no"],
-    "isMarked": false
-  }
+[{
+		"id": 1,
+		"question": "who is my best friend?",
+		"options": ["karan", "prafful", "tarun"],
+		"isMarked": false
+	},
+	{
+		"id": 2,
+		"question": "Novel or Movie?",
+		"options": ["Novel", "Movie"],
+		"isMarked": false
+	},
+	{
+		"id": 3,
+		"question": "Do you like me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	},
+	{
+		"id": 4,
+		"question": "Do you hate me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	},
+
+	{
+		"id": 5,
+		"question": "Do you hate me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	},
+
+	{
+		"id": 6,
+		"question": "Do you hate me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	},
+
+	{
+		"id": 7,
+		"question": "Do you hate me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	},
+
+	{
+		"id": 8,
+		"question": "Do you hate me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	},
+
+	{
+		"id": 9,
+		"question": "Do you hate me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	},
+
+	{
+		"id": 10,
+		"question": "Do you hate me?",
+		"options": ["yes", "no"],
+		"isMarked": false
+	}
+
 ]
