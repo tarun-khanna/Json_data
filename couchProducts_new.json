@@ -72,10 +72,6 @@
 		"product_url": "lkm",
 		"product_original_price": 1000
 	},{
-	"quest_id": "fourth",
-	"quest_url": "kjsnfkdj",
-	"quest_image_url": "https://s3-ap-southeast-1.amazonaws.com/seenitcdn/476775a2795741e2c9.jpg",
-	"quest_products": [{
 		"product_id": "fourth-1",
 		"product_image_url": "https://s3-ap-southeast-1.amazonaws.com/seenitfinds/1237835a27b8a30c3e1.jpg",
 		"product_title": "Xee Women White Slim Fit Ripped Jeans",
@@ -91,11 +87,7 @@
 		"product_original_price": 1000,
 		"product_discount_price": 800,
 		"discount": "20%"
-	}{
-	"quest_id": "fifth",
-	"quest_url": "kjsnfkdj",
-	"quest_image_url": "https://s3-ap-southeast-1.amazonaws.com/seenitcdn/477925a2a62a24eeb0.jpg",
-	"quest_products": [{
+	},{
 		"product_id": "fifth-1",
 		"product_image_url": "https://s3-ap-southeast-1.amazonaws.com/seenitfinds/1239815a2a5ba2aff15.jpg",
 		"product_title": "Deal Jeans Women Blue Skinny Fit Mid-rise Highly Distressed ",
