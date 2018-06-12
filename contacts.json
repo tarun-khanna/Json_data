@@ -1,14 +1,32 @@
 [{
   "id" : 1,
-  "firstName" : "karan",
-  "lastName" : "khanna",
+  "firstName" : "Karan",
+  "lastName" : "Khanna",
   "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
   "phone": "+918750385358"
   },
  {
   "id" : 1,
   "firstName" : "Tarun",
-  "lastName" : "khanna",
+  "lastName" : "Khanna",
+  "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
+  "phone": "+917042466206"
+  },{
+  "id" : 1,
+  "firstName" : "Kisaan",
+  "lastName" : "Executive",
+  "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
+  "phone": "+919971792703"
+  },{
+  "id" : 1,
+  "firstName" : "Farhan",
+  "lastName" : "Qureshi",
+  "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
+  "phone": "+918750385358"
+  },{
+  "id" : 1,
+  "firstName" : "Ranchordas",
+  "lastName" : "Chanchadd",
   "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
   "phone": "+917042466206"
   },{
@@ -16,25 +34,7 @@
   "firstName" : "Raju",
   "lastName" : "Rastogi",
   "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
-  "phone": "8750385358"
-  },{
-  "id" : 1,
-  "firstName" : "Farhan",
-  "lastName" : "Qureshi",
-  "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
-  "phone": "8750385358"
-  },{
-  "id" : 1,
-  "firstName" : "Ranchordas",
-  "lastName" : "Chanchadd",
-  "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
-  "phone": "8750385358"
-  },{
-  "id" : 1,
-  "firstName" : "Chote",
-  "lastName" : "Lal",
-  "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/17241-200.png",
-  "phone": "8750385358"
+  "phone": "+917042466206"
   }
   
 ]
